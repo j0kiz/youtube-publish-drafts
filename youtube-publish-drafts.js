@@ -106,7 +106,7 @@
     const SAVE_BUTTON_SELECTOR = '#done-button';
     const SUCCESS_ELEMENT_SELECTOR = 'ytcp-video-thumbnail-with-info';
     const DIALOG_SELECTOR = 'ytcp-dialog.ytcp-video-share-dialog > tp-yt-paper-dialog:nth-child(1)';
-    const DIALOG_CLOSE_BUTTON_SELECTOR = 'tp-yt-iron-icon';
+    const DIALOG_CLOSE_BUTTON_SELECTOR = 'ytcp-icon-button';
 
     class SuccessDialog {
         constructor(raw) {
